@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca6c569-ec6c-41e2-9383-525cc951a6d8" name="Default Changelist" comment="" />
+    <list default="true" id="dca6c569-ec6c-41e2-9383-525cc951a6d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaGerente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +21,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YPCDCdLxgDQ4kzf9WbrsRS6Fe3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,10 +36,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.TestaGerente">
@@ -78,29 +87,35 @@
       <screen x="45" y="0" width="1875" height="1080" />
     </state>
     <state x="790" y="0" width="374" height="595" key="#com.intellij.ide.util.MemberChooser/45.0.1875.1080@45.0.1875.1080" timestamp="1582835342571" />
-    <state width="894" height="95" key="GridCell.Tab.0.bottom" timestamp="1582840588699">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state width="1870" height="102" key="GridCell.Tab.0.bottom" timestamp="1582900252841">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state width="1870" height="102" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1582900252841" />
     <state width="894" height="95" key="GridCell.Tab.0.bottom/45.0.1875.1080@45.0.1875.1080" timestamp="1582840588699" />
-    <state width="894" height="95" key="GridCell.Tab.0.center" timestamp="1582840588699">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state width="1870" height="102" key="GridCell.Tab.0.center" timestamp="1582900252840">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state width="1870" height="102" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1582900252840" />
     <state width="894" height="95" key="GridCell.Tab.0.center/45.0.1875.1080@45.0.1875.1080" timestamp="1582840588699" />
-    <state width="894" height="95" key="GridCell.Tab.0.left" timestamp="1582840588699">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state width="1870" height="102" key="GridCell.Tab.0.left" timestamp="1582900252838">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state width="1870" height="102" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1582900252838" />
     <state width="894" height="95" key="GridCell.Tab.0.left/45.0.1875.1080@45.0.1875.1080" timestamp="1582840588699" />
-    <state width="894" height="95" key="GridCell.Tab.0.right" timestamp="1582840588699">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state width="1870" height="102" key="GridCell.Tab.0.right" timestamp="1582900252840">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state width="1870" height="102" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1582900252840" />
     <state width="894" height="95" key="GridCell.Tab.0.right/45.0.1875.1080@45.0.1875.1080" timestamp="1582840588699" />
-    <state x="486" y="174" key="SettingsEditor" timestamp="1582835771331">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state x="452" y="168" key="SettingsEditor" timestamp="1582895297462">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state x="452" y="168" key="SettingsEditor/0.0.1920.1043@0.0.1920.1043" timestamp="1582895297462" />
     <state x="486" y="174" key="SettingsEditor/45.0.1875.1080@45.0.1875.1080" timestamp="1582835771331" />
-    <state x="651" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1582835114333">
-      <screen x="45" y="0" width="1875" height="1080" />
+    <state x="621" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1582895341306">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state x="621" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1582895341306" />
     <state x="651" y="366" key="com.intellij.ide.util.TipDialog/45.0.1875.1080@45.0.1875.1080" timestamp="1582835114333" />
   </component>
 </project>

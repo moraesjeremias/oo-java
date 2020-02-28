@@ -5,6 +5,10 @@ public class Gerente extends Funcionario{
         super(nome, cpf);
     }
 
+    public double getBonification(){
+        return super.getBonification() + super.getSalario();
+    }
+
     public void setSenha(int senha) {
         this.senha = senha;
     }

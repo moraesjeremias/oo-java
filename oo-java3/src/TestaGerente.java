@@ -14,5 +14,6 @@ public class TestaGerente {
         System.out.println(nomeAlex);
         System.out.println(cpfAlex);
         System.out.println(salarioAlex);
+        System.out.println(alex.getBonification());
     }
 }
