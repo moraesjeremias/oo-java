@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c85bf65e-3b63-4692-afb5-1cee7363a4ea" name="Default Changelist" comment="" />
+    <list default="true" id="c85bf65e-3b63-4692-afb5-1cee7363a4ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/oo-java3/bytebank-herdado-conta/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oo-java3/bytebank-herdado-conta/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo-java3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oo-java3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -22,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,6 +53,10 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="874" y="265" width="428" height="513" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1582585404034" />
+    <state x="150" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1582906034599">
+      <screen x="45" y="0" width="1875" height="1080" />
+    </state>
+    <state x="150" y="367" key="com.intellij.ide.util.TipDialog/45.0.1875.1080@45.0.1875.1080" timestamp="1582906034599" />
     <state x="723" y="215" width="468" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582584686958">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
