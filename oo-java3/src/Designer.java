@@ -6,7 +6,7 @@ public class Designer extends Funcionario {
     }
 
     public double getBonification() {
-        return super.getBonification() + 200;
+        return 200;
     }
 
 }
