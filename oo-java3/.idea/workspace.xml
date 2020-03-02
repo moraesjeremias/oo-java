@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85bf65e-3b63-4692-afb5-1cee7363a4ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EditorVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditorVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteFuncionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -24,6 +30,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YH0zqp0QX9yOx1ZNWCcikF2EZg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bytebank-herdado-conta" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteSistema">
     <configuration name="TesteReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesteReferencia" />
       <module name="oo-java3" />
@@ -42,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteSistema" />
+      <module name="oo-java3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSistema" />
         <item itemvalue="Application.TesteReferencia" />
       </list>
     </recent_temporary>
@@ -62,10 +79,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583021725297">
+    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583121286771">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1583021725297" />
+    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1583121286771" />
     <state x="808" y="414" width="298" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582584544648">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
@@ -74,22 +91,22 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="874" y="265" width="428" height="513" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1583023497140" />
-    <state width="1870" height="81" key="GridCell.Tab.0.bottom" timestamp="1583023498690">
+    <state width="1870" height="225" key="GridCell.Tab.0.bottom" timestamp="1583121190964">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="81" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1583023498690" />
-    <state width="1870" height="81" key="GridCell.Tab.0.center" timestamp="1583023498690">
+    <state width="1870" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190964" />
+    <state width="1870" height="225" key="GridCell.Tab.0.center" timestamp="1583121190963">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="81" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1583023498690" />
-    <state width="1870" height="81" key="GridCell.Tab.0.left" timestamp="1583023498689">
+    <state width="1870" height="225" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190963" />
+    <state width="1870" height="225" key="GridCell.Tab.0.left" timestamp="1583121190962">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="81" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1583023498689" />
-    <state width="1870" height="81" key="GridCell.Tab.0.right" timestamp="1583023498690">
+    <state width="1870" height="225" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190962" />
+    <state width="1870" height="225" key="GridCell.Tab.0.right" timestamp="1583121190964">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="81" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1583023498690" />
+    <state width="1870" height="225" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190964" />
     <state x="108" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1583020920737">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
