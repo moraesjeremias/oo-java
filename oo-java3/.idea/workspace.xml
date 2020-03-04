@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85bf65e-3b63-4692-afb5-1cee7363a4ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Autenticavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Autenticavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autenticavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +81,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583121286771">
+    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583154661287">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1583121286771" />
+    <state x="768" y="235" width="378" height="575" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1583154661287" />
     <state x="808" y="414" width="298" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582584544648">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
@@ -91,31 +93,35 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="874" y="265" width="428" height="513" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1583023497140" />
-    <state width="1870" height="225" key="GridCell.Tab.0.bottom" timestamp="1583121190964">
+    <state width="1874" height="559" key="GridCell.Tab.0.bottom" timestamp="1583157690923">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190964" />
-    <state width="1870" height="225" key="GridCell.Tab.0.center" timestamp="1583121190963">
+    <state width="1874" height="559" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1583157690923" />
+    <state width="1874" height="559" key="GridCell.Tab.0.center" timestamp="1583157690921">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="225" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190963" />
-    <state width="1870" height="225" key="GridCell.Tab.0.left" timestamp="1583121190962">
+    <state width="1874" height="559" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1583157690921" />
+    <state width="1874" height="559" key="GridCell.Tab.0.left" timestamp="1583157690917">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="225" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190962" />
-    <state width="1870" height="225" key="GridCell.Tab.0.right" timestamp="1583121190964">
+    <state width="1874" height="559" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1583157690917" />
+    <state width="1874" height="559" key="GridCell.Tab.0.right" timestamp="1583157690923">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1870" height="225" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1583121190964" />
-    <state x="108" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1583020920737">
+    <state width="1874" height="559" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1583157690923" />
+    <state x="108" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1583153893270">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state x="108" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1583020920737" />
+    <state x="108" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1583153893270" />
     <state x="150" y="367" key="com.intellij.ide.util.TipDialog/45.0.1875.1080@45.0.1875.1080" timestamp="1582906034599" />
     <state x="723" y="215" width="468" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582584686958">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="723" y="215" width="468" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1582584686958" />
+    <state x="752" y="180" width="410" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583154047311">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="752" y="180" width="410" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1043@0.0.1920.1043" timestamp="1583154047311" />
     <state x="600" y="124" width="982" height="796" key="new project wizard" timestamp="1582585420266">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>

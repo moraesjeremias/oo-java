@@ -1,13 +1,7 @@
-public class Autenticavel extends Funcionario {
+public abstract interface Autenticavel{
 
-    private int senha;
+    public void setSenha(int senha);
 
-    public Autenticavel(String nome, String cpf) {
-        super(nome, cpf);
-    }
+    public boolean autentica(int senha);
 
-    @Override
-    public double getBonification() {
-        return 0;
-    }
 }

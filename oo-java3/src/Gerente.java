@@ -1,4 +1,4 @@
-public class Gerente extends Funcionario {
+public class Gerente extends Funcionario implements Autenticavel {
     private int senha = 1111;
 
     public Gerente(String nome, String cpf) {
